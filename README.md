@@ -21,10 +21,12 @@
  ![image](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/8ca6fdb9-7559-4fa5-8716-f619f2d636df) 
  ![image](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/0fb41214-0743-48f0-82b4-f61c82e6f3ea)
  ![image](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/3f29e362-c5e5-4ec9-84a1-f7fba3270937) 
+
  В конфигурации Ansible указать:
 
 1. внешний IP-адрес машины, полученный из output external_ ip_ address_ vm_1, в файле hosts;
 2. доступ в файле plabook *yml поля hosts.
+   
 ![image](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/13b59321-e206-42b0-8526-94a32441fc57)
 Провести тестирование.
 
