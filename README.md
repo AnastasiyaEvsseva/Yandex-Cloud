@@ -28,6 +28,8 @@
 2. доступ в файле plabook *yml поля hosts.
    
 ![image](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/13b59321-e206-42b0-8526-94a32441fc57)
+
+
 Провести тестирование.
 
    
