@@ -34,6 +34,9 @@
 
 Создаю файл main.tf с настройками провайдера в директории проекта, при этом terraform init 
 ![1](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/a8f9004d-a87e-4dd4-b884-19b498e9d209)
+![2](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/ef76c9f7-ed23-422d-85ac-365021b754a1)
+
+
 
 
 
