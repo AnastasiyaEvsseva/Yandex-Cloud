@@ -35,6 +35,22 @@
 Создаю файл main.tf с настройками провайдера в директории проекта, при этом terraform init 
 ![1](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/a8f9004d-a87e-4dd4-b884-19b498e9d209)
 ![2](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/ef76c9f7-ed23-422d-85ac-365021b754a1)
+ключ: cat ~/.ssh/id_rsa.pub
+
+terraform apply :
+![3](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/c1af4691-9980-40a1-949f-8b8e639630ea)
+
+sudo nano /etc/ansible/hosts :
+![image](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/30ea9e98-cd7c-45a7-8457-92941244ff63)
+
+ansible-playbook playbook.yml:
+![6](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/df1781b7-4b33-4342-8ae5-daab52a9bc83)
+
+![image](https://github.com/AnastasiyaEvsseva/Yandex-Cloud/assets/151757353/0a5d48d5-5006-4895-86f1-0bb7fc80ce75)
+
+
+
+
 
 
 
